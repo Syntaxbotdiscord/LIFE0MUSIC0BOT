@@ -1,1 +1,2 @@
-# LIFE0MUSIC0BOT
+# synatxmusic-bot
+A discord bot with alot of commands
